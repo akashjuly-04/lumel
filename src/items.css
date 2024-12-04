@@ -1,0 +1,13 @@
+.table{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%vh;
+    flex-wrap:nowrap;
+    
+    
+}
+
+.table-td{
+    border: 1px solid black;
+}
